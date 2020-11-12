@@ -19,4 +19,5 @@ public class Dept implements Serializable // 必须序列化
 		super();
 		this.dname = dname;
 	}
+	
 }
